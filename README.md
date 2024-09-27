@@ -12,8 +12,10 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
-### Project Description
+### Project Overview
 This project aims to analyze bicycle sales between the years 2016-2018. The data includes details about customers, stores, states, and bicycle categories to provide insights into revenue distribution. An interactive dashboard was created using Tableau to visualize this data, and SQL was used to query and manipulate the dataset.
+
+![Dashboard](https://github.com/user-attachments/assets/b357fc91-8682-4c9c-b4ae-f5212602f0e8)
 
 ### Technologies Used
 - **SQL**: For querying and manipulating the dataset.
