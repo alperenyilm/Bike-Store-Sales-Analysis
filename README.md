@@ -131,7 +131,7 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 
-Based on the analysis, we recommend the following actions:
+Based on the analysis, I recommend the following actions:
 
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
 - Focus on expanding and promoting top-selling products like mountain bikes and electric bikes.
